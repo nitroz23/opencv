@@ -1,10 +1,10 @@
 import cv2 as cv
 import os
 
-cd = 'examples\img'
+cd = 'tugas/tugas2'
 print(os.listdir(cd))
 
-img = cv.imread("examples\img\yuuka.jpg")
+img = cv.imread("tugas/tugas2/bi0o1d5qw7y21.jpeg")
 
 #print(img.shape)
 h, w, c = img.shape
@@ -17,7 +17,7 @@ cv.imshow("cropped", croppedImg)
 cv.imshow("resized", resizedImg)
 
 os.chdir(cd)
-cv.imwrite("thighs.jpg", croppedImg)
+cv.imwrite("test.jpg", resizedImg)
 
 cv.waitKey(0)
 cv.destroyAllWindows()
