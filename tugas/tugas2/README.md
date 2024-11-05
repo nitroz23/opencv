@@ -6,3 +6,5 @@ Hitunglah banyak sisi pada huruf E dan H pada gambar tugas2.png (jangan tulis "2
 ### PENLILAIAN
 - Ketepatan jumlah sisi
 - Kerapian code
+
+overwrite ae templatenya (tugas2.py)

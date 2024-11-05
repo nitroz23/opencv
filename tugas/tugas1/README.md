@@ -1,5 +1,5 @@
 # TUGAS 1
-Buatlah empat bounding box megelilingi empat karakter yang ada pada gambar tugas1.jpg (nama ngga perlu, asalkan warna bounding box sudah sesuai karakter)
+Buatlah empat bounding box megelilingi empat karakter yang ada pada gambar tugas1.jpg (nama ngga perlu, asalkan warna bounding box sudah sesuai karakter). 
 ![](done.jpg)
 
 Karakter dari kiri-kanan:
@@ -12,3 +12,5 @@ Karakter dari kiri-kanan:
 - Jumlah bounding box
 - Akurasi threshold warna bounding box
 - Kerapihan code
+
+overwrite ae templatenya (tugas1.py)
